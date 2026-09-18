@@ -1,4 +1,9 @@
 # База данных «Пункты ГНСС п. Импилахти»
+![](https://img.shields.io/badge/QGIS-3.40.1%2B-green.svg)
+![](https://img.shields.io/badge/CRS-EPSG%3A4326-blue.svg)
+![](https://img.shields.io/badge/License-ODbL%201.0-yellow.svg)
+![](https://img.shields.io/badge/Format-GeoPackage-orange.svg)
+![](https://img.shields.io/badge/ActualYear-2026-lightgrey.svg)
 
 ## 1. Назначение
 
